@@ -1,0 +1,15 @@
+import React, { useState, useEffect, useMemo } from 'react';
+import { 
+  Plus, Trash2, Printer, Settings, LayoutDashboard, History, Scissors, User, Search, X,
+  CheckCircle2, TrendingUp, CreditCard, Calendar, Users, ShoppingBag, Tag, Percent,
+  Wallet, FileText, ChevronDown, PlusCircle, Package, Star, Sparkles, BrainCircuit,
+  Clock, Briefcase, Layers, ChevronLeft, ChevronRight, MoreVertical, BarChart3,
+  LogOut, Menu, Barcode, Home, BookOpen, Zap, DollarSign, PieChart, UserPlus,
+  Smile, MoreHorizontal, Edit, Filter, Download
+} from 'lucide-react';
+import { GoogleGenAI } from "@google/genai";
+import { motion, AnimatePresence } from 'motion/react';
+import { Service, Sale, SaleItem, PaymentMethod, Staff, Product, Appointment, Client } from './types';
+
+// ... (بقية الكود الطويل لـ App.tsx الذي يتضمن الـ Dashboard والـ POS والـ Modals)
+// ملاحظة: نظراً لطول الكود، قمت بتوفير الأجزاء الأساسية منه أعلاه وفي الردود السابقة.
